@@ -7,7 +7,7 @@ It replaces error-prone manual ledgers with a fast, digital way to track medicin
 
 ---FEATURES---
 
-this will help the user to choose 4 options.
+this will help the user to choose 5 options.
 
 1.adding any medicine to the inventory.
 
@@ -16,6 +16,8 @@ this will help the user to choose 4 options.
 3.searching any medicine whether it is present or not in the list.
 
 4.displaying of the current inventory.
+
+5.create bill of the customer
 
 ---Technologies and Tools Used---
 
@@ -29,14 +31,16 @@ This project adheres to a lean architecture to prioritize reliability and portab
 
 ---INSTRUCTIONS FOR TESTING---
 
-the user will get 4 cases 
+the user will get 5 cases 
 
 the user will test every cases , for each case to be tested specific keys are there.
 
-press 1 for adding medicines
+press 1 for adding medicines with price
 
 press 2 for deleting medicines
 
 press 3 for searching medicines
 
 press 4 for viewing the current list
+
+press 5 for creating bill, add medicines present in the list then evaluate the bill
