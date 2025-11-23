@@ -30,7 +30,7 @@ Integration with external APIs or databases.
 
 Detailed sales/billing transaction logging.
 
-3. Target Users
+---TARGET USERS---
 
 The primary users of this system are personnel directly responsible for handling and managing stock within a medical shop environment.
 
